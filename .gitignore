@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook autosaves
+.ipynb_checkpoints/
+
+# OS and editor junk files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if you use it)
+.vscode/
